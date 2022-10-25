@@ -1,0 +1,308 @@
+
+clear 
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Write-Output ""
+Get-ChildItem -Path D:\temp\ -File | Remove-Item -Verbos
+Write-Output "pres y pls on evry popup PLA LM BEGGING YOU! DONT PRES N PLSSSSSSSSS"
+Start-Sleep -Seconds 10
+
+DISM.exe /Online /Cleanup-image /Restorehealth
+sfc /scannow
+Write-Output "pres y pls"
+chkdsk /f /r /b
+Install-Module PSWindowsUpdate
+CLEAR
+
+
+Get-WindowsUpdate
+Write-Output "pres A pls on evry popup PLA LM BEGGING YOU! DONT PRES N PLSSSSSSSSS"
+Install-WindowsUpdate
+Write-Output "PRES NO PLSSS
+Get-Command –Module PSWindowsUpdate"
+Get-WindowsUpdate -AcceptAll -Install -AutoReboot
+/aaa.cmd
+Write-Output "AFTER 1MINUTE THE PC/LATOP WIL RESTART!!! KEEP THIS IN MIND"
+Start-Sleep -Seconds 1
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!"
+
+Write-Output "STAY AWAY FROM YOUR PC/LATOP!!!
+
+
+Start-Sleep -Seconds 60
+restart-computer
